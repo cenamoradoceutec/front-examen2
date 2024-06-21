@@ -1,0 +1,24 @@
+/* body{
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#main {
+  text-align: left;
+  margin-top: 100px;
+}
+
+#btn-sesion{
+  background-color: 'blue';
+  color: wheat;
+} */
+
+.container {
+  max-width: 920px !important;
+}
+.container-sm {
+  max-width: 720px !important;
+}
